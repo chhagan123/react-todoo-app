@@ -27,6 +27,7 @@ function AddTodo({ onNewItem }) {
   };
 
   return (
+    
     <div className="container text-center">
       <div className="row main-row">
         <div className="col-6">
